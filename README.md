@@ -1,5 +1,5 @@
 # metabolic_pathway_analysis
-This repository was created in an effort to produce a pipeline that starts with raw RNA-seq reads and ends with an analysis of  differentially expressed genes in pathways. The pipeline was designed specifically for A. thaliana and its bacterial pathogens  but could, in theory, be applied to any RNA-seq analysis. This project is an advanced bioinformatics course project, completed by members of the NucleoVibes team!
+This repository was created in an effort to produce a pipeline that starts with raw RNA-seq reads and ends with an analysis of  differentially expressed genes in pathways. The pipeline was designed specifically for A. thaliana and its bacterial pathogens  but could, in theory, be applied to any RNA-seq analysis. This project is an advanced bioinformatics course project, completed by members of the NucleoVibes team. The data used in the project came from the article: A general non-self response as part of plant immunity, data source: https://www.nature.com/articles/s41477-021-00913-1#Sec27
 
 The pipeline we have developed works in 7 steps:
  
