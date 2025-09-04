@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Author: Martijn Prevoo (1285572)
+Author: Martijn Prevoo
 Description: ###
 Usage: ###
 """
